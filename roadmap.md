@@ -11,9 +11,5 @@
 - Writing PRDs
 - User Personas, Journey Maps
 
-## Month 3 – Building Portfolio
-- Finalize 3 case studies
-- Document product ideas
-- Start 1 collaborative side project
-- Publish all content to GitHub and LinkedIn
--
+
+
